@@ -8,3 +8,10 @@ Sở thích:
 - Chơi game
 Kỹ năng:
 - Giao tiếp tốt
+
+Kế hoạch học tập:
+- Học chuyên sâu Git và quản lý phiên bản.
+- Thực hành làm dự án nhóm.
+- Nâng cao kỹ năng lập trình Python.
+- Tìm hiểu thêm về DevOps và CI/CD.
+- Tham gia các khóa học trực tuyến về công nghệ mới.
