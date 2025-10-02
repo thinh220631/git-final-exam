@@ -1,0 +1,6 @@
+Tính năng: Tự động kiểm tra deadline học tập.
+- Người dùng nhập mục tiêu học mỗi ngày.
+- Hệ thống hiển thị tiến độ học tập từng bước.
+- Có cảnh báo nếu người dùng học chưa đủ thời gian.
+- Lưu lịch sử học để xem lại trong tuần.
+- Cho phép chỉnh sửa kế hoạch học nếu cần.
